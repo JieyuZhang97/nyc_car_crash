@@ -1,2 +1,2 @@
 # nyc_car_crash
-This file creates an interactive map for analyzing car crashes in New York City. 
+This is a coursera project that creates a website with streamlit for analyzing car crashes in New York City. 
